@@ -4,4 +4,4 @@
 
 * Master's thesis: Unsupervised Image Classification Using Domain Adaptation [Link](joelbjervig.github.io/thesis_paper.pdf)
 * Theory of Superfluid Helium [link](joelbjervig.github.io/Aiken_Taziny_Bjervig.pdf)
-* Project Course: Feasabillity Study of Cold-gas Thruster [link](joelbjervig.github.io/Gom_Space_project.pdf.pdf)
+* Project Course: Feasabillity Study of Cold-gas Thruster [link](joelbjervig.github.io/Gom_Space_project.pdf)
