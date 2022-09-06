@@ -1,4 +1,5 @@
-# Welcome to my little corner of the internet
+# Welcome to my little corner of the internet.
+While it is currently under construction, please have a look!
 
 ## Listed below are reports of a project in a class or project course.
 * **Master's thesis**
