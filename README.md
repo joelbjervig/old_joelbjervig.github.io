@@ -16,6 +16,8 @@ While it is currently under construction, please have a look!
   - Code Optimization in C:
 The Gravitational N-Body Problem Using the The Barnes-Hut Algorithm [link](project_papers/High_Performance_Programming_1TD062___Assignments.pdf)
   - Parallelized Merge Sort with OpenMP [link](project_papers/hpp_indv_project.pdf)
+* **Applied Finite Element Methods**
+  - The Lotka Volterra Equaitons, of increasing complexity [link](project_papers/Applied_Finite_Element_Methods_1TD056___Project.pdf)
 * **Modelling of Complex Systems**
   - Popular Opinion Dynamics [link](project_papers/mcs_assignment_1_discrete_models.pdf)
   - Continous Time Models [link](project_papers/mcs_assignment_2_cont_time_models.pdf)
