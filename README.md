@@ -17,7 +17,7 @@ While it is currently under construction, please have a look!
 The Gravitational N-Body Problem Using the The Barnes-Hut Algorithm [link](project_papers/High_Performance_Programming_1TD062___Assignments.pdf)
   - Parallelized Merge Sort with OpenMP [link](project_papers/hpp_indv_project.pdf)
 * **Applied Finite Element Methods**
-  - The Lotka Volterra Equaitons, of increasing complexity [link](project_papers/Applied_Finite_Element_Methods_1TD056___Project.pdf)
+  - The Lotka Volterra Equaitons [link](project_papers/Applied_Finite_Element_Methods_1TD056___Project.pdf)
 * **Modelling of Complex Systems**
   - Popular Opinion Dynamics [link](project_papers/mcs_assignment_1_discrete_models.pdf)
   - Continous Time Models [link](project_papers/mcs_assignment_2_cont_time_models.pdf)
@@ -27,7 +27,7 @@ The Gravitational N-Body Problem Using the The Barnes-Hut Algorithm [link](proje
   - Network Analysis [link](project_papers/mcs_assignment_6_Network_Analysis.pdf)
   - Final Project: Extending a Wildfire Cellular Automata Model [link](project_papers/MCS_final_project.pdf)
 * **Computational Physics**
-  - Scattering by a Central Potential [link](project_papers/Computational_Physics___Final_project .pdf)
+  - Scattering by a Central Potential [link](project_papers/Computational_Physics___Final_project.pdf)
   - The Ising Model [link](project_papers/Computational_Physics___Final_project_34.pdf)
 * **Fluid dynamics**
   - Theory of Superfluid Helium [link](project_papers/Aiken_Taziny_Bjervig.pdf)
