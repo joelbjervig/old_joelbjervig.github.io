@@ -3,7 +3,7 @@ While it is currently under construction, please have a look!
 
 ## Listed below are reports of a project in a class or project course.
 * **Master's thesis**
-  - Unsupervised Image Classification Using Domain Adaptation [Link](project_papers/Exjobb.pdf)
+  - Unsupervised Image Classification Using Domain Adaptation [Link](http://uu.diva-portal.org/smash/get/diva2:1695200/FULLTEXT01.pdf)
 * **Project Course**
   - Feasabillity Study of Cold-gas Thruster [link](project_papers/Gom_Space_project.pdf)
 * **Advanced Numerical Methods**
