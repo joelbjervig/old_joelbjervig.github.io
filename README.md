@@ -8,7 +8,7 @@ While it is currently under construction, please have a look!
   - Feasabillity Study of Cold-gas Thruster [link](project_papers/Gom_Space_project.pdf)
 * **Advanced Numerical Methods**
   - Numerical Analysis of Maxwell’s Equations: A finite difference approach [link](project_papers/anm_fd.pdf)
-  - Nonlinear Conservation Laws: A finite elements aproach [link](project_papers/anm_fe.pdf.pdf)
+  - Nonlinear Conservation Laws: A finite elements approach [link](project_papers/anm_fe.pdf)
   - Stabilized Finite Element Methods [link](project_papers/anm_stab_fem.pdf)
 * **Probabilistic Machine Learning**
   - The Trueskill Model [link](project_papers/APML_mini_project.pdf)
